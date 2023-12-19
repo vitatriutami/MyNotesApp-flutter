@@ -1,4 +1,4 @@
-# fitness
+# My Notes App
 
 A new Flutter project.
 
